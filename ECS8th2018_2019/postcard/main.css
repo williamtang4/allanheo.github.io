@@ -1,12 +1,11 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800);
-
+/* line 3, /Users/josh/Documents/workspace/CodeAvengers/src/main/webapp/less/postcard.less */
 html {
   background-color: #ccc;
   margin: 0 auto;
   width: 700px;
 }
-
-
+/* line 9, /Users/josh/Documents/workspace/CodeAvengers/src/main/webapp/less/postcard.less */
 body {
   background-color: #fff;
   border: 30px solid rgba(0, 0, 0, 0);
